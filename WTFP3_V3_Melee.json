@@ -23851,8 +23851,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -12,
-          "y": -6,
+          "x": 18,
+          "y": -3,
           "id": 1899
         },
         {
@@ -23877,8 +23877,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 7,
-          "y": 5,
+          "x": -12,
+          "y": -2,
           "id": 1901
         },
         {
@@ -23939,8 +23939,8 @@
           "x": 13.6,
           "y": -17.6,
           "id": 1905,
-          "positionParentId": 1898,
-          "pinned": true
+          "pinned": true,
+          "positionParentId": 1898
         },
         {
           "opacity": 100,
@@ -24003,8 +24003,8 @@
           "x": 13.6,
           "y": -17.6,
           "id": 1909,
-          "positionParentId": 1901,
-          "pinned": true
+          "pinned": true,
+          "positionParentId": 1901
         },
         {
           "opacity": 100,
@@ -24175,8 +24175,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -171,
-          "y": 98,
+          "x": 133,
+          "y": 19,
           "id": 1926
         },
         {
@@ -24214,8 +24214,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 138,
-          "y": 7,
+          "x": -152,
+          "y": 79,
           "id": 1929
         },
         {
@@ -24276,8 +24276,8 @@
           "x": 13.6,
           "y": -17.6,
           "id": 1933,
-          "positionParentId": 1926,
-          "pinned": true
+          "pinned": true,
+          "positionParentId": 1929
         },
         {
           "opacity": 100,
@@ -24340,8 +24340,8 @@
           "x": 13.6,
           "y": -17.6,
           "id": 1937,
-          "positionParentId": 1929,
-          "pinned": true
+          "pinned": true,
+          "positionParentId": 1926
         },
         {
           "opacity": 100,
@@ -24517,8 +24517,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": -171,
-          "y": 98,
+          "x": 130,
+          "y": 24,
           "id": 1958
         },
         {
@@ -24556,8 +24556,8 @@
           "width": 32,
           "height": 32,
           "rotation": 0,
-          "x": 138,
-          "y": 7,
+          "x": -143,
+          "y": 77,
           "id": 1961
         },
         {
@@ -24618,8 +24618,8 @@
           "x": 13.6,
           "y": -17.6,
           "id": 1965,
-          "positionParentId": 1958,
-          "pinned": true
+          "pinned": true,
+          "positionParentId": 1961
         },
         {
           "opacity": 100,
@@ -24682,8 +24682,8 @@
           "x": 13.6,
           "y": -17.6,
           "id": 1969,
-          "positionParentId": 1961,
-          "pinned": true
+          "pinned": true,
+          "positionParentId": 1958
         },
         {
           "opacity": 100,
